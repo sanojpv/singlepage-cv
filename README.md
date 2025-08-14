@@ -23,5 +23,5 @@ Styling will be addressed in a later phase, so this project is purely HTML-based
 - **Clean Structure**: Education, Skills, and Career History sections are clearly separated.
 
 
-
+project url-https://roadmap.sh/projects/single-page-cv
 
